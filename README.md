@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-![App Screenshot](public/assets/screenshot.png)
+![App Screenshot](/public/assets/screenshot.png)
 
 
 ## Demo

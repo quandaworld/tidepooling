@@ -1,8 +1,26 @@
-# React + Vite
+# My Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+(Work in progress) An app for tide-pooling enthusiasts built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+
+![App Screenshot](public/assets/screenshot.png)
+
+
+## Demo
+
+Work in progress...
+
+
+## Features
+
+- Search tide levels by zip code
+- Show today's tides and two-day tide forecast
+- Find tide pools by zip code
+- Tide pool listings include location, user ratings, and most seen marine animals
+- A real-time chat system for app users
+
+
+## Skills
+React, Vite, and Tailwind CSS.

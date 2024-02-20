@@ -1,4 +1,4 @@
-# My Library
+# Tide-Pooling App
 
 (Work in progress) An app for tide-pooling enthusiasts built with React, Vite, and Tailwind CSS.
 

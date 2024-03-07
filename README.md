@@ -1,6 +1,6 @@
 # Tide-Pooling App
 
-(Work in progress) An app for tide-pooling enthusiasts built with React, Vite, and Tailwind CSS.
+(Work in progress) An app for tide-pooling enthusiasts built with React, Vite, Tailwind CSS, REST API, Node.js, and MongoDB.
 
 
 ## About
@@ -27,4 +27,4 @@ To be deployed soon...
 
 
 ## Skills
-React, Vite, and Tailwind CSS.
+React, Vite, Tailwind CSS, REST API, Node.js, and MongoDB.
